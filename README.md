@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Pranav's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pranav-github02)
 
-![Pranav's Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pranav-github02)  
+![Pranav's Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pranav-github02&theme=dark)  
