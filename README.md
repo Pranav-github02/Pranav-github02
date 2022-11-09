@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=Pranav-github02&theme=dark&show_icons=true)
+![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=Pranav-github02&theme=dark&show_icons=true&hide_border=false)
 
 ![Pranav's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pranav-github02)
 
