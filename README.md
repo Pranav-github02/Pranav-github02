@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 ![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=Pranav-github02&theme=dark&show_icons=true&hide_border=false)
 
-[![Pranav's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pranav-github02&theme=github)
+![Pranav's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pranav-github02&theme=github)
 
 ![Pranav's Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pranav-github02&theme=dark)  
