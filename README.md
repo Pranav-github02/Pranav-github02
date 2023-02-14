@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Pranav Jindal
-Data Science Enthusiast
+Tech Enthusiast | Full Stack Developer | Data Science Enthusiast
 
 <!--
 **Pranav-github02/Pranav-github02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
