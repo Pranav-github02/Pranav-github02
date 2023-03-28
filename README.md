@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=Pranav-github02&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- [![](https://visitcount.itsvg.in/api?id=Pranav-github02&icon=4&color=0)](https://visitcount.itsvg.in) -->
 
