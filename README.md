@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 I am Pranav Jindal -->
-[![Pranav's GitHub Banner](./assets/GitHubHeader.png)]<!--(https://pranavjindal.dev)-->
+[![Pranav's GitHub Banner](./assets/GitHubHeader.png)](https://pranav-github02.github.io/Portfolio1/)
 Tech. Enthusiast | MERN Stack Developer | Data Science Enthusiast
 
 <!--
